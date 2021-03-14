@@ -1,0 +1,16 @@
+D:\Workspace\DigitalInovationOne\BootCamps\Localiza\AumentoSalario\bin\Debug\net5.0\AumentoSalario.exe
+D:\Workspace\DigitalInovationOne\BootCamps\Localiza\AumentoSalario\bin\Debug\net5.0\AumentoSalario.deps.json
+D:\Workspace\DigitalInovationOne\BootCamps\Localiza\AumentoSalario\bin\Debug\net5.0\AumentoSalario.runtimeconfig.json
+D:\Workspace\DigitalInovationOne\BootCamps\Localiza\AumentoSalario\bin\Debug\net5.0\AumentoSalario.runtimeconfig.dev.json
+D:\Workspace\DigitalInovationOne\BootCamps\Localiza\AumentoSalario\bin\Debug\net5.0\AumentoSalario.dll
+D:\Workspace\DigitalInovationOne\BootCamps\Localiza\AumentoSalario\bin\Debug\net5.0\ref\AumentoSalario.dll
+D:\Workspace\DigitalInovationOne\BootCamps\Localiza\AumentoSalario\bin\Debug\net5.0\AumentoSalario.pdb
+D:\Workspace\DigitalInovationOne\BootCamps\Localiza\AumentoSalario\obj\Debug\net5.0\AumentoSalario.csprojAssemblyReference.cache
+D:\Workspace\DigitalInovationOne\BootCamps\Localiza\AumentoSalario\obj\Debug\net5.0\AumentoSalario.GeneratedMSBuildEditorConfig.editorconfig
+D:\Workspace\DigitalInovationOne\BootCamps\Localiza\AumentoSalario\obj\Debug\net5.0\AumentoSalario.AssemblyInfoInputs.cache
+D:\Workspace\DigitalInovationOne\BootCamps\Localiza\AumentoSalario\obj\Debug\net5.0\AumentoSalario.AssemblyInfo.cs
+D:\Workspace\DigitalInovationOne\BootCamps\Localiza\AumentoSalario\obj\Debug\net5.0\AumentoSalario.csproj.CoreCompileInputs.cache
+D:\Workspace\DigitalInovationOne\BootCamps\Localiza\AumentoSalario\obj\Debug\net5.0\AumentoSalario.dll
+D:\Workspace\DigitalInovationOne\BootCamps\Localiza\AumentoSalario\obj\Debug\net5.0\ref\AumentoSalario.dll
+D:\Workspace\DigitalInovationOne\BootCamps\Localiza\AumentoSalario\obj\Debug\net5.0\AumentoSalario.pdb
+D:\Workspace\DigitalInovationOne\BootCamps\Localiza\AumentoSalario\obj\Debug\net5.0\AumentoSalario.genruntimeconfig.cache
