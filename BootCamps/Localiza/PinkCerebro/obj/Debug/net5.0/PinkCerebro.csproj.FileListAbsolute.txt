@@ -1,0 +1,16 @@
+D:\Workspace\DigitalInovationOne\BootCamps\Localiza\PinkCerebro\obj\Debug\net5.0\PinkCerebro.csprojAssemblyReference.cache
+D:\Workspace\DigitalInovationOne\BootCamps\Localiza\PinkCerebro\obj\Debug\net5.0\PinkCerebro.GeneratedMSBuildEditorConfig.editorconfig
+D:\Workspace\DigitalInovationOne\BootCamps\Localiza\PinkCerebro\obj\Debug\net5.0\PinkCerebro.AssemblyInfoInputs.cache
+D:\Workspace\DigitalInovationOne\BootCamps\Localiza\PinkCerebro\obj\Debug\net5.0\PinkCerebro.AssemblyInfo.cs
+D:\Workspace\DigitalInovationOne\BootCamps\Localiza\PinkCerebro\obj\Debug\net5.0\PinkCerebro.csproj.CoreCompileInputs.cache
+D:\Workspace\DigitalInovationOne\BootCamps\Localiza\PinkCerebro\bin\Debug\net5.0\PinkCerebro.exe
+D:\Workspace\DigitalInovationOne\BootCamps\Localiza\PinkCerebro\bin\Debug\net5.0\PinkCerebro.deps.json
+D:\Workspace\DigitalInovationOne\BootCamps\Localiza\PinkCerebro\bin\Debug\net5.0\PinkCerebro.runtimeconfig.json
+D:\Workspace\DigitalInovationOne\BootCamps\Localiza\PinkCerebro\bin\Debug\net5.0\PinkCerebro.runtimeconfig.dev.json
+D:\Workspace\DigitalInovationOne\BootCamps\Localiza\PinkCerebro\bin\Debug\net5.0\PinkCerebro.dll
+D:\Workspace\DigitalInovationOne\BootCamps\Localiza\PinkCerebro\bin\Debug\net5.0\ref\PinkCerebro.dll
+D:\Workspace\DigitalInovationOne\BootCamps\Localiza\PinkCerebro\bin\Debug\net5.0\PinkCerebro.pdb
+D:\Workspace\DigitalInovationOne\BootCamps\Localiza\PinkCerebro\obj\Debug\net5.0\PinkCerebro.dll
+D:\Workspace\DigitalInovationOne\BootCamps\Localiza\PinkCerebro\obj\Debug\net5.0\ref\PinkCerebro.dll
+D:\Workspace\DigitalInovationOne\BootCamps\Localiza\PinkCerebro\obj\Debug\net5.0\PinkCerebro.pdb
+D:\Workspace\DigitalInovationOne\BootCamps\Localiza\PinkCerebro\obj\Debug\net5.0\PinkCerebro.genruntimeconfig.cache

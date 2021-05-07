@@ -1,0 +1,16 @@
+D:\Workspace\DigitalInovationOne\BootCamps\Localiza\MediaNotaPonderada\bin\Debug\net5.0\MediaNotaPonderada.exe
+D:\Workspace\DigitalInovationOne\BootCamps\Localiza\MediaNotaPonderada\bin\Debug\net5.0\MediaNotaPonderada.deps.json
+D:\Workspace\DigitalInovationOne\BootCamps\Localiza\MediaNotaPonderada\bin\Debug\net5.0\MediaNotaPonderada.runtimeconfig.json
+D:\Workspace\DigitalInovationOne\BootCamps\Localiza\MediaNotaPonderada\bin\Debug\net5.0\MediaNotaPonderada.runtimeconfig.dev.json
+D:\Workspace\DigitalInovationOne\BootCamps\Localiza\MediaNotaPonderada\bin\Debug\net5.0\MediaNotaPonderada.dll
+D:\Workspace\DigitalInovationOne\BootCamps\Localiza\MediaNotaPonderada\bin\Debug\net5.0\ref\MediaNotaPonderada.dll
+D:\Workspace\DigitalInovationOne\BootCamps\Localiza\MediaNotaPonderada\bin\Debug\net5.0\MediaNotaPonderada.pdb
+D:\Workspace\DigitalInovationOne\BootCamps\Localiza\MediaNotaPonderada\obj\Debug\net5.0\MediaNotaPonderada.csprojAssemblyReference.cache
+D:\Workspace\DigitalInovationOne\BootCamps\Localiza\MediaNotaPonderada\obj\Debug\net5.0\MediaNotaPonderada.GeneratedMSBuildEditorConfig.editorconfig
+D:\Workspace\DigitalInovationOne\BootCamps\Localiza\MediaNotaPonderada\obj\Debug\net5.0\MediaNotaPonderada.AssemblyInfoInputs.cache
+D:\Workspace\DigitalInovationOne\BootCamps\Localiza\MediaNotaPonderada\obj\Debug\net5.0\MediaNotaPonderada.AssemblyInfo.cs
+D:\Workspace\DigitalInovationOne\BootCamps\Localiza\MediaNotaPonderada\obj\Debug\net5.0\MediaNotaPonderada.csproj.CoreCompileInputs.cache
+D:\Workspace\DigitalInovationOne\BootCamps\Localiza\MediaNotaPonderada\obj\Debug\net5.0\MediaNotaPonderada.dll
+D:\Workspace\DigitalInovationOne\BootCamps\Localiza\MediaNotaPonderada\obj\Debug\net5.0\ref\MediaNotaPonderada.dll
+D:\Workspace\DigitalInovationOne\BootCamps\Localiza\MediaNotaPonderada\obj\Debug\net5.0\MediaNotaPonderada.pdb
+D:\Workspace\DigitalInovationOne\BootCamps\Localiza\MediaNotaPonderada\obj\Debug\net5.0\MediaNotaPonderada.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+D:\Workspace\DigitalInovationOne\BootCamps\Localiza\ComprasSupermercado\bin\Debug\net5.0\ComprasSupermercado.exe
+D:\Workspace\DigitalInovationOne\BootCamps\Localiza\ComprasSupermercado\bin\Debug\net5.0\ComprasSupermercado.deps.json
+D:\Workspace\DigitalInovationOne\BootCamps\Localiza\ComprasSupermercado\bin\Debug\net5.0\ComprasSupermercado.runtimeconfig.json
+D:\Workspace\DigitalInovationOne\BootCamps\Localiza\ComprasSupermercado\bin\Debug\net5.0\ComprasSupermercado.runtimeconfig.dev.json
+D:\Workspace\DigitalInovationOne\BootCamps\Localiza\ComprasSupermercado\bin\Debug\net5.0\ComprasSupermercado.dll
+D:\Workspace\DigitalInovationOne\BootCamps\Localiza\ComprasSupermercado\bin\Debug\net5.0\ref\ComprasSupermercado.dll
+D:\Workspace\DigitalInovationOne\BootCamps\Localiza\ComprasSupermercado\bin\Debug\net5.0\ComprasSupermercado.pdb
+D:\Workspace\DigitalInovationOne\BootCamps\Localiza\ComprasSupermercado\obj\Debug\net5.0\ComprasSupermercado.csprojAssemblyReference.cache
+D:\Workspace\DigitalInovationOne\BootCamps\Localiza\ComprasSupermercado\obj\Debug\net5.0\ComprasSupermercado.GeneratedMSBuildEditorConfig.editorconfig
+D:\Workspace\DigitalInovationOne\BootCamps\Localiza\ComprasSupermercado\obj\Debug\net5.0\ComprasSupermercado.AssemblyInfoInputs.cache
+D:\Workspace\DigitalInovationOne\BootCamps\Localiza\ComprasSupermercado\obj\Debug\net5.0\ComprasSupermercado.AssemblyInfo.cs
+D:\Workspace\DigitalInovationOne\BootCamps\Localiza\ComprasSupermercado\obj\Debug\net5.0\ComprasSupermercado.csproj.CoreCompileInputs.cache
+D:\Workspace\DigitalInovationOne\BootCamps\Localiza\ComprasSupermercado\obj\Debug\net5.0\ComprasSupermercado.dll
+D:\Workspace\DigitalInovationOne\BootCamps\Localiza\ComprasSupermercado\obj\Debug\net5.0\ref\ComprasSupermercado.dll
+D:\Workspace\DigitalInovationOne\BootCamps\Localiza\ComprasSupermercado\obj\Debug\net5.0\ComprasSupermercado.pdb
+D:\Workspace\DigitalInovationOne\BootCamps\Localiza\ComprasSupermercado\obj\Debug\net5.0\ComprasSupermercado.genruntimeconfig.cache

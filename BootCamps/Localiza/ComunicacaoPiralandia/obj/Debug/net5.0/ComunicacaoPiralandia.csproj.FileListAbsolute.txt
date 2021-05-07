@@ -1,0 +1,16 @@
+D:\Workspace\DigitalInovationOne\BootCamps\Localiza\ComunicacaoPiralandia\bin\Debug\net5.0\ComunicacaoPiralandia.exe
+D:\Workspace\DigitalInovationOne\BootCamps\Localiza\ComunicacaoPiralandia\bin\Debug\net5.0\ComunicacaoPiralandia.deps.json
+D:\Workspace\DigitalInovationOne\BootCamps\Localiza\ComunicacaoPiralandia\bin\Debug\net5.0\ComunicacaoPiralandia.runtimeconfig.json
+D:\Workspace\DigitalInovationOne\BootCamps\Localiza\ComunicacaoPiralandia\bin\Debug\net5.0\ComunicacaoPiralandia.runtimeconfig.dev.json
+D:\Workspace\DigitalInovationOne\BootCamps\Localiza\ComunicacaoPiralandia\bin\Debug\net5.0\ComunicacaoPiralandia.dll
+D:\Workspace\DigitalInovationOne\BootCamps\Localiza\ComunicacaoPiralandia\bin\Debug\net5.0\ref\ComunicacaoPiralandia.dll
+D:\Workspace\DigitalInovationOne\BootCamps\Localiza\ComunicacaoPiralandia\bin\Debug\net5.0\ComunicacaoPiralandia.pdb
+D:\Workspace\DigitalInovationOne\BootCamps\Localiza\ComunicacaoPiralandia\obj\Debug\net5.0\ComunicacaoPiralandia.csprojAssemblyReference.cache
+D:\Workspace\DigitalInovationOne\BootCamps\Localiza\ComunicacaoPiralandia\obj\Debug\net5.0\ComunicacaoPiralandia.GeneratedMSBuildEditorConfig.editorconfig
+D:\Workspace\DigitalInovationOne\BootCamps\Localiza\ComunicacaoPiralandia\obj\Debug\net5.0\ComunicacaoPiralandia.AssemblyInfoInputs.cache
+D:\Workspace\DigitalInovationOne\BootCamps\Localiza\ComunicacaoPiralandia\obj\Debug\net5.0\ComunicacaoPiralandia.AssemblyInfo.cs
+D:\Workspace\DigitalInovationOne\BootCamps\Localiza\ComunicacaoPiralandia\obj\Debug\net5.0\ComunicacaoPiralandia.csproj.CoreCompileInputs.cache
+D:\Workspace\DigitalInovationOne\BootCamps\Localiza\ComunicacaoPiralandia\obj\Debug\net5.0\ComunicacaoPiralandia.dll
+D:\Workspace\DigitalInovationOne\BootCamps\Localiza\ComunicacaoPiralandia\obj\Debug\net5.0\ref\ComunicacaoPiralandia.dll
+D:\Workspace\DigitalInovationOne\BootCamps\Localiza\ComunicacaoPiralandia\obj\Debug\net5.0\ComunicacaoPiralandia.pdb
+D:\Workspace\DigitalInovationOne\BootCamps\Localiza\ComunicacaoPiralandia\obj\Debug\net5.0\ComunicacaoPiralandia.genruntimeconfig.cache

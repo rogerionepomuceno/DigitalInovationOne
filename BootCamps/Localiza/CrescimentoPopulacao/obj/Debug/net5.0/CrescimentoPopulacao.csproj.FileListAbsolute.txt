@@ -1,0 +1,16 @@
+D:\Workspace\DigitalInovationOne\BootCamps\Localiza\CrescimentoPopulacao\obj\Debug\net5.0\CrescimentoPopulacao.csprojAssemblyReference.cache
+D:\Workspace\DigitalInovationOne\BootCamps\Localiza\CrescimentoPopulacao\obj\Debug\net5.0\CrescimentoPopulacao.GeneratedMSBuildEditorConfig.editorconfig
+D:\Workspace\DigitalInovationOne\BootCamps\Localiza\CrescimentoPopulacao\obj\Debug\net5.0\CrescimentoPopulacao.AssemblyInfoInputs.cache
+D:\Workspace\DigitalInovationOne\BootCamps\Localiza\CrescimentoPopulacao\obj\Debug\net5.0\CrescimentoPopulacao.AssemblyInfo.cs
+D:\Workspace\DigitalInovationOne\BootCamps\Localiza\CrescimentoPopulacao\obj\Debug\net5.0\CrescimentoPopulacao.csproj.CoreCompileInputs.cache
+D:\Workspace\DigitalInovationOne\BootCamps\Localiza\CrescimentoPopulacao\bin\Debug\net5.0\CrescimentoPopulacao.exe
+D:\Workspace\DigitalInovationOne\BootCamps\Localiza\CrescimentoPopulacao\bin\Debug\net5.0\CrescimentoPopulacao.deps.json
+D:\Workspace\DigitalInovationOne\BootCamps\Localiza\CrescimentoPopulacao\bin\Debug\net5.0\CrescimentoPopulacao.runtimeconfig.json
+D:\Workspace\DigitalInovationOne\BootCamps\Localiza\CrescimentoPopulacao\bin\Debug\net5.0\CrescimentoPopulacao.runtimeconfig.dev.json
+D:\Workspace\DigitalInovationOne\BootCamps\Localiza\CrescimentoPopulacao\bin\Debug\net5.0\CrescimentoPopulacao.dll
+D:\Workspace\DigitalInovationOne\BootCamps\Localiza\CrescimentoPopulacao\bin\Debug\net5.0\ref\CrescimentoPopulacao.dll
+D:\Workspace\DigitalInovationOne\BootCamps\Localiza\CrescimentoPopulacao\bin\Debug\net5.0\CrescimentoPopulacao.pdb
+D:\Workspace\DigitalInovationOne\BootCamps\Localiza\CrescimentoPopulacao\obj\Debug\net5.0\CrescimentoPopulacao.dll
+D:\Workspace\DigitalInovationOne\BootCamps\Localiza\CrescimentoPopulacao\obj\Debug\net5.0\ref\CrescimentoPopulacao.dll
+D:\Workspace\DigitalInovationOne\BootCamps\Localiza\CrescimentoPopulacao\obj\Debug\net5.0\CrescimentoPopulacao.pdb
+D:\Workspace\DigitalInovationOne\BootCamps\Localiza\CrescimentoPopulacao\obj\Debug\net5.0\CrescimentoPopulacao.genruntimeconfig.cache

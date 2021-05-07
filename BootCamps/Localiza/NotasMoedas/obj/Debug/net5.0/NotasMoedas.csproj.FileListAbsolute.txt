@@ -1,0 +1,16 @@
+D:\Workspace\DigitalInovationOne\BootCamps\Localiza\NotasMoedas\bin\Debug\net5.0\NotasMoedas.exe
+D:\Workspace\DigitalInovationOne\BootCamps\Localiza\NotasMoedas\bin\Debug\net5.0\NotasMoedas.deps.json
+D:\Workspace\DigitalInovationOne\BootCamps\Localiza\NotasMoedas\bin\Debug\net5.0\NotasMoedas.runtimeconfig.json
+D:\Workspace\DigitalInovationOne\BootCamps\Localiza\NotasMoedas\bin\Debug\net5.0\NotasMoedas.runtimeconfig.dev.json
+D:\Workspace\DigitalInovationOne\BootCamps\Localiza\NotasMoedas\bin\Debug\net5.0\NotasMoedas.dll
+D:\Workspace\DigitalInovationOne\BootCamps\Localiza\NotasMoedas\bin\Debug\net5.0\ref\NotasMoedas.dll
+D:\Workspace\DigitalInovationOne\BootCamps\Localiza\NotasMoedas\bin\Debug\net5.0\NotasMoedas.pdb
+D:\Workspace\DigitalInovationOne\BootCamps\Localiza\NotasMoedas\obj\Debug\net5.0\NotasMoedas.csprojAssemblyReference.cache
+D:\Workspace\DigitalInovationOne\BootCamps\Localiza\NotasMoedas\obj\Debug\net5.0\NotasMoedas.GeneratedMSBuildEditorConfig.editorconfig
+D:\Workspace\DigitalInovationOne\BootCamps\Localiza\NotasMoedas\obj\Debug\net5.0\NotasMoedas.AssemblyInfoInputs.cache
+D:\Workspace\DigitalInovationOne\BootCamps\Localiza\NotasMoedas\obj\Debug\net5.0\NotasMoedas.AssemblyInfo.cs
+D:\Workspace\DigitalInovationOne\BootCamps\Localiza\NotasMoedas\obj\Debug\net5.0\NotasMoedas.csproj.CoreCompileInputs.cache
+D:\Workspace\DigitalInovationOne\BootCamps\Localiza\NotasMoedas\obj\Debug\net5.0\NotasMoedas.dll
+D:\Workspace\DigitalInovationOne\BootCamps\Localiza\NotasMoedas\obj\Debug\net5.0\ref\NotasMoedas.dll
+D:\Workspace\DigitalInovationOne\BootCamps\Localiza\NotasMoedas\obj\Debug\net5.0\NotasMoedas.pdb
+D:\Workspace\DigitalInovationOne\BootCamps\Localiza\NotasMoedas\obj\Debug\net5.0\NotasMoedas.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+D:\Workspace\DigitalInovationOne\BootCamps\Localiza\PedraPapelTesoura\obj\Debug\net5.0\PedraPapelTesoura.csprojAssemblyReference.cache
+D:\Workspace\DigitalInovationOne\BootCamps\Localiza\PedraPapelTesoura\obj\Debug\net5.0\PedraPapelTesoura.GeneratedMSBuildEditorConfig.editorconfig
+D:\Workspace\DigitalInovationOne\BootCamps\Localiza\PedraPapelTesoura\obj\Debug\net5.0\PedraPapelTesoura.AssemblyInfoInputs.cache
+D:\Workspace\DigitalInovationOne\BootCamps\Localiza\PedraPapelTesoura\obj\Debug\net5.0\PedraPapelTesoura.AssemblyInfo.cs
+D:\Workspace\DigitalInovationOne\BootCamps\Localiza\PedraPapelTesoura\obj\Debug\net5.0\PedraPapelTesoura.csproj.CoreCompileInputs.cache
+D:\Workspace\DigitalInovationOne\BootCamps\Localiza\PedraPapelTesoura\bin\Debug\net5.0\PedraPapelTesoura.exe
+D:\Workspace\DigitalInovationOne\BootCamps\Localiza\PedraPapelTesoura\bin\Debug\net5.0\PedraPapelTesoura.deps.json
+D:\Workspace\DigitalInovationOne\BootCamps\Localiza\PedraPapelTesoura\bin\Debug\net5.0\PedraPapelTesoura.runtimeconfig.json
+D:\Workspace\DigitalInovationOne\BootCamps\Localiza\PedraPapelTesoura\bin\Debug\net5.0\PedraPapelTesoura.runtimeconfig.dev.json
+D:\Workspace\DigitalInovationOne\BootCamps\Localiza\PedraPapelTesoura\bin\Debug\net5.0\PedraPapelTesoura.dll
+D:\Workspace\DigitalInovationOne\BootCamps\Localiza\PedraPapelTesoura\bin\Debug\net5.0\ref\PedraPapelTesoura.dll
+D:\Workspace\DigitalInovationOne\BootCamps\Localiza\PedraPapelTesoura\bin\Debug\net5.0\PedraPapelTesoura.pdb
+D:\Workspace\DigitalInovationOne\BootCamps\Localiza\PedraPapelTesoura\obj\Debug\net5.0\PedraPapelTesoura.dll
+D:\Workspace\DigitalInovationOne\BootCamps\Localiza\PedraPapelTesoura\obj\Debug\net5.0\ref\PedraPapelTesoura.dll
+D:\Workspace\DigitalInovationOne\BootCamps\Localiza\PedraPapelTesoura\obj\Debug\net5.0\PedraPapelTesoura.pdb
+D:\Workspace\DigitalInovationOne\BootCamps\Localiza\PedraPapelTesoura\obj\Debug\net5.0\PedraPapelTesoura.genruntimeconfig.cache

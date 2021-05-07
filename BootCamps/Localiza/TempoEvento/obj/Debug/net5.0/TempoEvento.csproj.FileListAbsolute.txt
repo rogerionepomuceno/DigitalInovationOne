@@ -1,0 +1,16 @@
+D:\Workspace\DigitalInovationOne\BootCamps\Localiza\TempoEvento\obj\Debug\net5.0\TempoEvento.csprojAssemblyReference.cache
+D:\Workspace\DigitalInovationOne\BootCamps\Localiza\TempoEvento\obj\Debug\net5.0\TempoEvento.GeneratedMSBuildEditorConfig.editorconfig
+D:\Workspace\DigitalInovationOne\BootCamps\Localiza\TempoEvento\obj\Debug\net5.0\TempoEvento.AssemblyInfoInputs.cache
+D:\Workspace\DigitalInovationOne\BootCamps\Localiza\TempoEvento\obj\Debug\net5.0\TempoEvento.AssemblyInfo.cs
+D:\Workspace\DigitalInovationOne\BootCamps\Localiza\TempoEvento\obj\Debug\net5.0\TempoEvento.csproj.CoreCompileInputs.cache
+D:\Workspace\DigitalInovationOne\BootCamps\Localiza\TempoEvento\bin\Debug\net5.0\TempoEvento.exe
+D:\Workspace\DigitalInovationOne\BootCamps\Localiza\TempoEvento\bin\Debug\net5.0\TempoEvento.deps.json
+D:\Workspace\DigitalInovationOne\BootCamps\Localiza\TempoEvento\bin\Debug\net5.0\TempoEvento.runtimeconfig.json
+D:\Workspace\DigitalInovationOne\BootCamps\Localiza\TempoEvento\bin\Debug\net5.0\TempoEvento.runtimeconfig.dev.json
+D:\Workspace\DigitalInovationOne\BootCamps\Localiza\TempoEvento\bin\Debug\net5.0\TempoEvento.dll
+D:\Workspace\DigitalInovationOne\BootCamps\Localiza\TempoEvento\bin\Debug\net5.0\ref\TempoEvento.dll
+D:\Workspace\DigitalInovationOne\BootCamps\Localiza\TempoEvento\bin\Debug\net5.0\TempoEvento.pdb
+D:\Workspace\DigitalInovationOne\BootCamps\Localiza\TempoEvento\obj\Debug\net5.0\TempoEvento.dll
+D:\Workspace\DigitalInovationOne\BootCamps\Localiza\TempoEvento\obj\Debug\net5.0\ref\TempoEvento.dll
+D:\Workspace\DigitalInovationOne\BootCamps\Localiza\TempoEvento\obj\Debug\net5.0\TempoEvento.pdb
+D:\Workspace\DigitalInovationOne\BootCamps\Localiza\TempoEvento\obj\Debug\net5.0\TempoEvento.genruntimeconfig.cache

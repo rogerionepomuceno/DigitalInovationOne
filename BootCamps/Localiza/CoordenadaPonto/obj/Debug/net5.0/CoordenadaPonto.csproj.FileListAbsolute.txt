@@ -1,0 +1,16 @@
+D:\Workspace\DigitalInovationOne\BootCamps\Localiza\CoordenadaPonto\bin\Debug\net5.0\CoordenadaPonto.exe
+D:\Workspace\DigitalInovationOne\BootCamps\Localiza\CoordenadaPonto\bin\Debug\net5.0\CoordenadaPonto.deps.json
+D:\Workspace\DigitalInovationOne\BootCamps\Localiza\CoordenadaPonto\bin\Debug\net5.0\CoordenadaPonto.runtimeconfig.json
+D:\Workspace\DigitalInovationOne\BootCamps\Localiza\CoordenadaPonto\bin\Debug\net5.0\CoordenadaPonto.runtimeconfig.dev.json
+D:\Workspace\DigitalInovationOne\BootCamps\Localiza\CoordenadaPonto\bin\Debug\net5.0\CoordenadaPonto.dll
+D:\Workspace\DigitalInovationOne\BootCamps\Localiza\CoordenadaPonto\bin\Debug\net5.0\ref\CoordenadaPonto.dll
+D:\Workspace\DigitalInovationOne\BootCamps\Localiza\CoordenadaPonto\bin\Debug\net5.0\CoordenadaPonto.pdb
+D:\Workspace\DigitalInovationOne\BootCamps\Localiza\CoordenadaPonto\obj\Debug\net5.0\CoordenadaPonto.csprojAssemblyReference.cache
+D:\Workspace\DigitalInovationOne\BootCamps\Localiza\CoordenadaPonto\obj\Debug\net5.0\CoordenadaPonto.GeneratedMSBuildEditorConfig.editorconfig
+D:\Workspace\DigitalInovationOne\BootCamps\Localiza\CoordenadaPonto\obj\Debug\net5.0\CoordenadaPonto.AssemblyInfoInputs.cache
+D:\Workspace\DigitalInovationOne\BootCamps\Localiza\CoordenadaPonto\obj\Debug\net5.0\CoordenadaPonto.AssemblyInfo.cs
+D:\Workspace\DigitalInovationOne\BootCamps\Localiza\CoordenadaPonto\obj\Debug\net5.0\CoordenadaPonto.csproj.CoreCompileInputs.cache
+D:\Workspace\DigitalInovationOne\BootCamps\Localiza\CoordenadaPonto\obj\Debug\net5.0\CoordenadaPonto.dll
+D:\Workspace\DigitalInovationOne\BootCamps\Localiza\CoordenadaPonto\obj\Debug\net5.0\ref\CoordenadaPonto.dll
+D:\Workspace\DigitalInovationOne\BootCamps\Localiza\CoordenadaPonto\obj\Debug\net5.0\CoordenadaPonto.pdb
+D:\Workspace\DigitalInovationOne\BootCamps\Localiza\CoordenadaPonto\obj\Debug\net5.0\CoordenadaPonto.genruntimeconfig.cache
